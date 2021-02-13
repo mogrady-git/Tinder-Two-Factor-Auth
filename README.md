@@ -8,3 +8,4 @@ Two-Step Verification with Glassmorphism Effect with CSS, HTML, Javascript jQuer
 ### Future Upgrades To Include
 
 > Client Site Validation on the Form With The Random Generated Number
+> DOM Manipulation to Allow Input of Phone Number with Update to the Call Toastr
