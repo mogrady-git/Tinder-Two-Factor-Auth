@@ -105,11 +105,19 @@ body {
 
 .code {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 
 .logo {
     background-color: #ffffff;
     padding: 2rem 4rem;
+}
+
+.glass form .form-control {
+    margin: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+    body {}
 }
